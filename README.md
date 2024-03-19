@@ -1,3 +1,5 @@
+[View Live Demo](https://your-github-username.github.io/netflix-clone/)
+
 # Netflix Clone Website
 
 This is a Netflix clone website project created as a learning exercise for HTML5 and CSS3.
