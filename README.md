@@ -12,6 +12,9 @@ The Netflix clone website is designed to mimic the basic functionality and layou
 - Styling using CSS3, including Flexbox and Grid for layout
 - Static content showcasing movies and TV shows
 
+## Tools
+   visual studio code
+
 ## Technologies Used
 
 The project is built using the following technologies:
