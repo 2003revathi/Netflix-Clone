@@ -23,6 +23,6 @@ To run the Netflix clone website locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   ```bash
-  git clone https://github.com/2003revathi/Netflix-Clone.git
+   ```bash git clone https://github.com/2003revathi/Netflix-Clone.git
+  
 
