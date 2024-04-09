@@ -1,4 +1,3 @@
-[View Live Demo](https://your-github-username.github.io/netflix-clone/)
 
 # Netflix Clone Website
 
